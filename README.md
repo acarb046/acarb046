@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Amin, and I am currently a senior majoring in Computer Science while working full time in my Alma Mater.  
+👀👀
 
 <!--
 **acarb046/acarb046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
